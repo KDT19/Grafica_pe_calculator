@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\GPC\Lab1.4\bin\Debug\Lab1.4.exe.config
+C:\Users\Admin\Desktop\GPC\Lab1.4\bin\Debug\Lab1.4.exe
+C:\Users\Admin\Desktop\GPC\Lab1.4\bin\Debug\Lab1.4.pdb
+C:\Users\Admin\Desktop\GPC\Lab1.4\obj\Debug\Lab1.4.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\GPC\Lab1.4\obj\Debug\Lab1._4.Form1.resources
+C:\Users\Admin\Desktop\GPC\Lab1.4\obj\Debug\Lab1._4.Properties.Resources.resources
+C:\Users\Admin\Desktop\GPC\Lab1.4\obj\Debug\Lab1.4.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\GPC\Lab1.4\obj\Debug\Lab1.4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GPC\Lab1.4\obj\Debug\Lab1.4.exe
+C:\Users\Admin\Desktop\GPC\Lab1.4\obj\Debug\Lab1.4.pdb
